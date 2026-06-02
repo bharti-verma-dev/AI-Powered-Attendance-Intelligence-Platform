@@ -21,15 +21,7 @@ This project demonstrates how AI-powered insights and automation can improve dec
 
 ## Solution Architecture
 
-Excel Dataset
-↓
-Copilot Analysis
-↓
-Power BI Dashboard
-↓
-Power Automate Alerts
-↓
-Copilot Studio Assistant
+Excel Dataset -> Copilot Analysis -> Power BI Dashboard -> Power Automate Alerts -> Copilot Studio Assistant
 
 ## Features
 
